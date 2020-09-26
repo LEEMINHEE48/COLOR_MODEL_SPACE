@@ -56,4 +56,4 @@ LUT ( Lookup Table )
 
 #1 **1D LUT**는 커브 곡선이나 커브를 움직이는 보정값(Lift, Gamma, Gain, Contrast 등과 1:1로 매치된다. But, Hue,Saturation을 보정해 보면 1D LUT에는 아무런 변화가 없다 그래서 1D LUT는 “휘도 곡선”을 보정할때 사용한다고들 한다.
 
-<u>But, 1D역시 RGB 3개의 채널별로 LUT를 만든다. ----- Lift, Gamma, Curve는 모두 RGB 채널별로 값을 보정할 수가 있고, 이 보정된 값은 1D LUT에 그대로 적용된다.<u> 
+_But, 1D역시 RGB 3개의 채널별로 LUT를 만든다. ----- Lift, Gamma, Curve는 모두 RGB 채널별로 값을 보정할 수가 있고, 이 보정된 값은 1D LUT에 그대로 적용된다._ 
