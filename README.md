@@ -11,15 +11,11 @@ RGB can express aubandant and detail color, But it has very big volume.
 
    |white|Grey|Black|
   |------|-----|-----|
-  |255,255,255|128,128,128|0,0,0|                   RGB
-  |235,0,0|128,0,0|16,0,0|                          YUV
+  |255,255,255|128,128,128|0,0,0|                   
+  |235,0,0|128,0,0|16,0,0|                          
  
  
- |   White        |     Grey          | Black 
----   ----------         --------------   ----------
-RGB | 255,255,255    |   128,128,128     |  0,0,0
----   ------------       ------------      -------
-YUV | 235,0,0        |   128,0,0         | 16,0,0
+
 
 It can conpress from big volume to more(1/2) small volume 
 
