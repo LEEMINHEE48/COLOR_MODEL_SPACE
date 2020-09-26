@@ -116,6 +116,7 @@ SRGB VS LOG
 
 리니어 컬러커브(SRGB) 보다 LOG 컬러 커브가 이미ㅣㅈ으 더 어두운 부분이 Shdow를 보유하기 위해 위 치솟아 있고, 커브의 꼭대기는 Highlight을 보유하기 위해 아래쪽으로 꺽여있다.  
 
+<img width="841" alt="스크린샷 2020-09-27 오전 12 21 34" src="https://user-images.githubusercontent.com/70868719/94344106-f9523080-0057-11eb-84d3-160a66f0fb53.png">
 
 
 ------> 더 많은 다이나믹 레인지 확장 가능 
