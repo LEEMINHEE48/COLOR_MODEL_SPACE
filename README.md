@@ -1,5 +1,3 @@
-# COLOR_MODEL_SPACE
-
 Various Colorspaces(Models) 
 ===========================
 
@@ -21,7 +19,7 @@ YUV | 235,0,0        |   128,0,0         | 16,0,0
 
 It can conpress from big volume to more(1/2) small volume 
 
-
+<img width="250" alt="스크린샷 2020-09-27 오전 12 14 59" src="https://user-images.githubusercontent.com/70868719/94343917-83999500-0056-11eb-9472-39fd71fac77e.png">
 
 
 ACES Colorspace
