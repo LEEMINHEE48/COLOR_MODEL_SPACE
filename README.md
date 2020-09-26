@@ -9,9 +9,13 @@ RGB can express aubandant and detail color, But it has very big volume.
 ----> If you use YUV......
 
 
-    
-    
-    |   White        |     Grey          | Black 
+ |white|Grey|Black|
+|------|-----|-----|
+|255,255,255|128,128,128|0,0,0|
+|235,0,0|128,0,0|16,0,0|
+ 
+ 
+ |   White        |     Grey          | Black 
 ---   ----------         --------------   ----------
 RGB | 255,255,255    |   128,128,128     |  0,0,0
 ---   ------------       ------------      -------
